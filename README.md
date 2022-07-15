@@ -1,2 +1,2 @@
-# candys.starss
+# candys.stars
 candys.stars
